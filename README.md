@@ -17,17 +17,17 @@ In this article, I explore how to use LSTM networks to generate text that mimics
 
 To run the notebooks and explore the models:
 
-	1.	Clone this repository:
+1.	Clone this repository:
 
-git clone https://github.com/sharpaxis/Medium_article_materials.git
-
-
-	2.	Install the required libraries:
-
-pip install torch numpy
+        git clone https://github.com/sharpaxis/Medium_article_materials.git
 
 
-	3.	Open the notebook in Jupyter or Google Colab.
+2.	Install the required libraries:
+
+        pip install torch numpy
+
+
+3.	Open the notebook in Jupyter or Google Colab.
 
 ## 📝 Additional Notes
 
